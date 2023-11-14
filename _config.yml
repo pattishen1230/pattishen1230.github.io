@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanhui Shen"
+  name             : "Yanhui (Patti) Shen"
   avatar           : "profile.png"
   bio              : "M.S. in Financial Economics at the University of Wisconsin-Madison"
   location         : "Madison, WI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WoZLOHAAAAAJ&hl=en"
-  email            :
+  email            : yanhui.shen@hotmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
