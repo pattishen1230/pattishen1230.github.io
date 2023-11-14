@@ -10,7 +10,7 @@ author_profile: true
 * Arranged diverse extracurricular activities and earned high regard and affection from students.
 
 **Jul. 2017 - Aug. 2021: Operations Manager, Agricultural Bank of China, China**
-* Supervised and managed the day-to-day operational activities in the branch to ensure the compliance of banking business;
+* Supervised and managed the daily operational activities in the branch to ensure the compliance of banking business;
 * Led digitization projects to boost operational efficiency.
   
 <p align="center">
