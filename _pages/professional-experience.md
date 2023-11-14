@@ -14,7 +14,6 @@ author_profile: true
 * Led digitization projects to boost operational efficiency.
   
 <p align="center">
-  <img src="/images/paper1-MLP.jpg" height="50" alt="Image 2">
-  <img src="/images/paper1-LSTM.jpg" height="50" alt="Image 3">
-  <img src="/images/paper1-self-attention.jpg" height="50" alt="Image 4">
+  <img src="/images/professional-1 teaching.png" height="50" alt="Image 2">
+  <img src="/images/professional-1 teaching2.jpg" height="50" alt="Image 3">
 </p>
