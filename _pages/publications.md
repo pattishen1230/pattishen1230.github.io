@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-American Option Pricing using Self-Attention GRU and Shapley Value Interpretation
+[American Option Pricing using Self-Attention GRU and Shapley Value Interpretation](https://arxiv.org/pdf/2310.12500.pdf)
 ====
 * Construct four different machine learning models, including multilayer perceptron (MLP), long short-term memory (LSTM), self-attention LSTM, and self-attention gated recurrent unit (GRU) in comparison to the traditional binomial model.
 * The results show that the self-attention GRU model with historical data outperforms other models due to its ability to capture complex temporal dependencies embedded in the historical data.
