@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Financial Economics at the University of Wisconsin-Madison. My current research focuses on **FinTech, Empirical Asset Pricing, Derivatives Markets, Machine Learning (Neural Networks, Interpretability Analysis)**. Before this, I had five years of work experience, with four years serving as an operations manager at the Agricultural Bank of China and one year as an economics teacher at an international school. My CV is available from [here](https://pattishen1230.github.io/files/CV.pdf).
+I am a master student in Financial Economics at the University of Wisconsin-Madison. My current research focuses on **Empirical Asset Pricing, Derivatives Markets, Corporate Finance, Risk Management, Machine Learning (Neural Networks, Interpretability Analysis)**. Before this, I had five years of work experience, with four years serving as an operations manager at the Agricultural Bank of China and one year as an economics teacher at an international school. My CV is available from [here](https://pattishen1230.github.io/files/CV.pdf).
